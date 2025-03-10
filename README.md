@@ -45,11 +45,14 @@ Here are some of the projects I've worked on:
 - Technologies used: Java, MySQL, Swing & Awt APIs.
 - Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
 
-### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/University-Management-Portal)**
+### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)**
 
-- Description: Another short description of the project.
-- Technologies used: Java, Swing, MySQL, etc.
-- Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
+- Description: This portal analyses patient data & medical history to provide risk assessment in aididng early detection
+               by effective data processing algorithms. It also supports healthcare professionals in making informed
+               decisions about patient care
+- Technologies used: Python, Spyder IDE, Streamlit libraries.
+- Algorithm used: Logistical Regression, SVM.
+- Link to the repository: https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal
 
 ## 📚 Learning & Growth
 
@@ -61,7 +64,7 @@ I’m constantly learning new technologies to enhance my skillset. Some of my on
 
 Feel free to reach out to me for collaborations, questions, or just a friendly chat. You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/yashang-dhrangadhriya)
 - [Email](mailto:patelyashang5367@gmail.com)
 
 ### 🛠️ Other Repositories
