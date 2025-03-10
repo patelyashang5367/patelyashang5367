@@ -41,8 +41,10 @@ Here are some of the projects I've worked on:
 
 ![Project Image](https://via.placeholder.com/400x250?text=Project+1)  <!-- Replace with your own image -->
 
-- Description: A short description of the project. What was the goal of the project? What did you build?
-- Technologies used: Java, MySQL, Swing, etc.
+- Description: Portal aims to integrate student and faculty related operations effeciently. Core functionalities
+               include enrollment, fees payment and user authentication. Using Java's Object-Oriented Principles,
+               it provides a structured and robust system.
+- Technologies used: Java, MySQL, Swing & Awt APIs.
 - Link to the repository and demo.
 
 ### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/projectname)**
