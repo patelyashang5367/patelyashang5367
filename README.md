@@ -39,8 +39,6 @@ Here are some of the projects I've worked on:
 
 ### 1. **[University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)**
 
-![Project Image](https://via.placeholder.com/400x250?text=Project+1)  <!-- Replace with your own image -->
-
 - Description: Portal aims to integrate student and faculty related operations effeciently. Core functionalities
                include enrollment, fees payment and user authentication. Using Java's Object-Oriented Principles,
                it provides a structured and robust system.
