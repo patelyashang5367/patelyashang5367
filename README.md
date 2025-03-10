@@ -37,7 +37,7 @@ Currently, I’m expanding my skill set and exploring:
 
 Here are some of the projects I've worked on:
 
-### 1. **[University Management Portal](https://github.com/patelyashang5367/projectname)**
+### 1. **[University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)**
 
 ![Project Image](https://via.placeholder.com/400x250?text=Project+1)  <!-- Replace with your own image -->
 
@@ -45,15 +45,13 @@ Here are some of the projects I've worked on:
                include enrollment, fees payment and user authentication. Using Java's Object-Oriented Principles,
                it provides a structured and robust system.
 - Technologies used: Java, MySQL, Swing & Awt APIs.
-- Link to the repository and demo.
+- Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
 
-### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/projectname)**
-
-![Project Image](https://via.placeholder.com/400x250?text=Project+2)  <!-- Replace with your own image -->
+### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/University-Management-Portal)**
 
 - Description: Another short description of the project.
 - Technologies used: Java, Swing, MySQL, etc.
-- Link to the repository and demo.
+- Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
 
 ## 📚 Learning & Growth
 
