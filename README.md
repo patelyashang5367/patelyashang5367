@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Java developer with a strong background in Core Java, Swing, AWT APIs, and MySQL database development. I love creating efficient, robust, and user-friendly applications, and I'm always eager to learn and grow my skills.
 
-![Banner Image](https://via.placeholder.com/1200x300?text=Java+Developer)  <!-- Replace with your own image -->
-
 ## 🚀 About Me
 
 I'm a Java developer with expertise in:
@@ -26,6 +24,7 @@ Currently, I’m expanding my skill set and exploring:
 - IntelliJ IDEA
 - Eclipse IDE
 - MySQL Workbench
+- Spyder IDE
 
 ### Soft Skills
 - Problem Solver
@@ -73,7 +72,6 @@ You can check out my other repositories here:
 
 - [Java: University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)
 - [Python: Multiple Disease Prediction Portal](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)
-
 
 Thank you for visiting my profile! 😊
 
