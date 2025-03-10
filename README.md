@@ -71,8 +71,8 @@ Feel free to reach out to me for collaborations, questions, or just a friendly c
 
 You can check out my other repositories here:
 
-- [Repository 1](https://github.com/patelyashang5367/repository1)
-- [Repository 2](https://github.com/patelyashang5367/repository2)
+- [Repository 1](https://github.com/patelyashang5367/University-Management-Portal)
+- [Repository 2](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)
 
 
 Thank you for visiting my profile! 😊
