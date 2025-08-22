@@ -18,6 +18,7 @@ I'm a software developer with expertise in:
 - Java (Core, Swing, AWT)                - VScode                               - Adaptability & Continuous Learning.
 - SQL                                    - PostMan
                                          - MySQL Workbench
+
                                                              
 ## 📂 Projects
 
