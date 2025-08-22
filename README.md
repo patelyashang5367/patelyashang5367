@@ -39,7 +39,7 @@ Here are some of the projects I've worked on:
                order status monitoring, administrative user privileges, pagination, and API throttling.
                Implemented JWT-based authentication, optimized database queries for scalability,
                and integrated third-party testing with robust error handling.
-- Technologies used: Python, Django REST Framework
+- Technologies used: Python, Django REST Framework, PostMan
  
 ### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)**
 - Description: This portal analyses patient data & medical history to provide risk assessment in aididng early detection
@@ -65,7 +65,7 @@ Feel free to reach out to me for collaborations, questions, or just a friendly c
 
 You can check out my other repositories here:
 
-- [Django REST Framework](https://github.com/patelyashang5367/University-Management-Portal)
+- [Django REST Framework](https://github.com/patelyashang5367/DRF-E-Commerce-API)
 - [Python: Multiple Disease Prediction Portal](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)
 - [Java: University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)
 
