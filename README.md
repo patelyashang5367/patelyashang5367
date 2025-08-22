@@ -4,20 +4,17 @@ Welcome to my GitHub profile! I'm a passionate Java developer with a strong back
 
 ## 🚀 About Me
 
-I'm a Java developer with expertise in:
+I'm a software developer with expertise in:
 
+- **Core Java**: Building high-performance and scalable Java applications.
 - **Core Java**: Building high-performance and scalable Java applications.
 - **Swing & AWT**: Developing desktop applications with rich graphical user interfaces.
 - **MySQL**: Creating and managing databases for robust backend support.
 
-Currently, I’m expanding my skill set and exploring:
-- Spring Framework for building enterprise-level applications
-
 ### Languages & Frameworks
+- Python (beginner)
 - Java (Core, Swing, AWT)
 - MySQL
-- Spring (beginner)
-- Python (beginner)
 
 ### Tools & Technologies
 - Git
