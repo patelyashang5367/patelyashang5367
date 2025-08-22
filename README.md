@@ -16,7 +16,8 @@ I'm a software developer with expertise in:
 - Python                                                                  
 - C Language                                                            
 - Java (Core, Swing, AWT)                
-- SQL                                    
+- SQL
+- Django REST FrameWork                                   
 ### Tools & Technologies
 - Git
 - Github                               
