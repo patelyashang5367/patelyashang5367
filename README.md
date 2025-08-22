@@ -40,22 +40,19 @@ Here are some of the projects I've worked on:
                Implemented JWT-based authentication, optimized database queries for scalability,
                and integrated third-party testing with robust error handling.
 - Technologies used: Python, Django REST Framework
-- Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
-- 
+ 
 ### 2. **[Multiple Disease Prediction Portal Using ML](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)**
 - Description: This portal analyses patient data & medical history to provide risk assessment in aididng early detection
                by effective data processing algorithms. It also supports healthcare professionals in making informed
                decisions about patient care
 - Technologies used: Python, Spyder IDE, Streamlit libraries.
 - Algorithm used: Logistical Regression, SVM.
-- Link to the repository: https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal
 
 ### 3. **[University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)**
 - Description: Portal aims to integrate student and faculty related operations effeciently. Core functionalities
                include enrollment, fees payment and user authentication. Using Java's Object-Oriented Principles,
                it provides a structured and robust system.
 - Technologies used: Java, MySQL, Swing & Awt APIs.
-- Link to the repository: https://github.com/patelyashang5367/University-Management-Portal
 
 ## 💬 Let's Connect
 
