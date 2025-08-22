@@ -33,7 +33,7 @@ I'm a software developer with expertise in:
 ## 📂 Projects
 
 Here are some of the projects I've worked on:
-### 1. **[E-Commerce API](https://github.com/patelyashang5367/University-Management-Portal)**
+### 1. **[E-Commerce API](https://github.com/patelyashang5367/DRF-E-Commerce-API)**
 
 - Description: Built a RESTful E-commerce API that facilitates product management, user authentication,
                order status monitoring, administrative user privileges, pagination, and API throttling.
