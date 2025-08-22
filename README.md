@@ -61,13 +61,4 @@ Feel free to reach out to me for collaborations, questions, or just a friendly c
 - [LinkedIn](https://www.linkedin.com/in/yashang-dharangadhriya?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCnXsNLAlSRuy%2FW7%2Fa9YTqg%3D%3D)
 - [patelyashang5367@gmail.com](mailto:patelyashang5367@gmail.com)
 
-### 🛠️ Other Repositories
-
-You can check out my other repositories here:
-
-- [Django REST Framework](https://github.com/patelyashang5367/DRF-E-Commerce-API)
-- [Python: Multiple Disease Prediction Portal](https://github.com/patelyashang5367/Multiple-Disease-Prediction-Portal)
-- [Java: University Management Portal](https://github.com/patelyashang5367/University-Management-Portal)
-
 Thank you for visiting my profile! 😊
-
