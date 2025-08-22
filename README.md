@@ -59,7 +59,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me for collaborations, questions, or just a friendly chat. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/yashang-dharangadhriya?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCnXsNLAlSRuy%2FW7%2Fa9YTqg%3D%3D)
-- [Email: patelyashang5367@gmail.com](mailto:patelyashang5367@gmail.com)
+- [patelyashang5367@gmail.com](mailto:patelyashang5367@gmail.com)
 
 ### 🛠️ Other Repositories
 
