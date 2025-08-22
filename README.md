@@ -12,13 +12,21 @@ I'm a software developer with expertise in:
 - **Swing & AWT**: Developing desktop applications with rich graphical user interfaces.
 - **MySQL**: Creating and managing databases for robust backend support.
 
-### Languages & Frameworks               ### Tools & Technologies               ### Soft Skills
-- Python                                 - Git                                  - Communication Skills
-- C Language                             - Github                               - Problem-Solving & Analytical Thinking 
-- Java (Core, Swing, AWT)                - VScode                               - Adaptability & Continuous Learning.
-- SQL                                    - PostMan
-                                         - MySQL Workbench
-
+### Languages & Frameworks                           
+- Python                                                                  
+- C Language                                                            
+- Java (Core, Swing, AWT)                
+- SQL                                    
+### Tools & Technologies
+- Git
+- Github                               
+- VScode                              
+- PostMan
+- MySQL Workbench
+### Soft Skills
+- Communication Skills
+- Problem-Solving & Analytical Thinking 
+- Adaptability & Continuous Learning.
                                                              
 ## 📂 Projects
 
